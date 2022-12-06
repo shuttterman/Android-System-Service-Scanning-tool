@@ -19,6 +19,18 @@ List of devices attached
 
 then, excute script like the following command
 ```
-./pseudo_fuzz.py [-h] -o OUTPUT_PATH [-s SLEEP] [-root]
+./pseudo_fuzz.py -o OUTPUT_PATH
 ```
+### Options
+```
+usage: pseudo_fuzz.py [-h] -o OUTPUT_PATH [-s SLEEP] [-root]
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -o OUTPUT_PATH, --output_path OUTPUT_PATH
+                        Set output file path
+  -s SLEEP, --sleep_second SLEEP
+                        Set sleep second for checking crash
+  -root, --root         For rooted deivice
+ ```
 
