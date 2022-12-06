@@ -10,7 +10,7 @@ adb
 python3.6+
 
 ## Usage
-First, make sure connection with device
+First, make sure connection with the device
 ```
 cnu@ubuntu:~$ adb devices
 List of devices attached
