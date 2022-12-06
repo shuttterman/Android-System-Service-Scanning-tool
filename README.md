@@ -11,3 +11,8 @@ python3.6+
 
 ## Usage
 First, make sure connection with device
+```
+cnu@ubuntu:~$ adb devices
+List of devices attached
+18554286128979	device
+```
