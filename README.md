@@ -4,7 +4,7 @@
 This tool is for Dectecting NullPointerException(NPE) about Android System service
 
 ## Prerequisite
-adb
+adb  
 python3.6+
 
 ## Usage
